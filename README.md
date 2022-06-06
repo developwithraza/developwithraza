@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir Raza</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>I'm <img src="https://images.cooltext.com/5604940.gif" width="200" height="60" /></h1>
 <h3 align="center">A passionate frontend developer(Reactjs developer) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developwithraza&label=Profile%20views&color=0e75b6&style=flat" alt="developwithraza" /> </p>
@@ -14,6 +14,7 @@
 - ⚡ Fun fact **my favorite game kabaddi.**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://drive.google.com/file/d/15EkvHKFnBD1hGlSGRhQrEiqKdleTWQVn/view?usp=sharing" />
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-amir-anasri-70162917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-amir-anasri-70162917a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/developwithraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/developwithraza" height="30" width="40" /></a>
